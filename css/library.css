@@ -1,0 +1,38 @@
+.project-container {
+   background-color: white;
+   border: solid black .5em;
+}
+
+p {
+    
+        margin-bottom: 0;
+        font-size: 1.2em;
+        padding: 2em;
+        text-indent: 2em;
+}
+
+img {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+ 
+button {
+  width: 100%;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+h3 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.hide {
+    display: none;
+}
